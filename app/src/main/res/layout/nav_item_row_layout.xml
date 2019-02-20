@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.AppCompatImageView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navItemImg"
+    android:layout_width="85dp"
+    android:layout_height="65dp"
+    android:layout_margin="8dp"
+    android:background="@drawable/nav_item_bg"
+    android:padding="20dp"
+    app:srcCompat="@drawable/ic_whatshot_black_24dp" />
